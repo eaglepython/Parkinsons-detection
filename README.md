@@ -1,4 +1,4 @@
-# Parkinsons-detection
+# Parkinson-detection
 
 ~Detecting Parkinson’s Disease – Python Machine Learning Project
 
